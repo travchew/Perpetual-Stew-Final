@@ -95,7 +95,7 @@ function draw() {
 
   drawStew();
   
-  //userName = nameInput.value();
+  userName = nameInput.value();
   text(nameInput.value(),40,50)
 
 }
